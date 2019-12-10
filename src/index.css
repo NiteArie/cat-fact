@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: url('https://www.petanos.com/wp-content/uploads/2019/08/Cute-Cat-whiskers-Animal-Eyes-Pink-background-Wallpaper.jpg');
+  background-attachment: center;
+  background-size:cover;
+  background-repeat: no-repeat;
+  font-family: 'Montserrat', sans-serif;
 }
 
 code {
